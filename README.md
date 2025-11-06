@@ -58,3 +58,6 @@ Interactive slicers allow users to customize their analysis:
 9. 🏁 Conclusion
 
 This dashboard serves as a valuable business intelligence tool, offering a clear, interactive view of company sales performance and profitability. It empowers managers and analysts to identify trends, evaluate performance, and make data-backed strategic decisions.
+
+10. Screenshot / Dashboard
+https://github.com/Taskeenumme/Dashboard_1/blob/main/Dashboard.jpg
