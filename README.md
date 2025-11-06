@@ -1,4 +1,4 @@
-# Dashboard_1
+# Dashboard
 Power BI Sales Performance Dashboard
 
 1. 📊 Project Overview
